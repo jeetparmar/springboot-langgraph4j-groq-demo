@@ -1,0 +1,5 @@
+groq:
+  api-key: gsk...
+  base-url: https://api.groq.com/openai/v1
+  model: openai/gpt-oss-120b
+  max-revisions: 2
